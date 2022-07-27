@@ -1,1 +1,0 @@
-initSidebarItems({"macro":[["version","Gets the current version as a string."]],"struct":[["Version",""]]});

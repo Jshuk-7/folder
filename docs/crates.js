@@ -1,1 +1,1 @@
-window.ALL_CRATES = ["folder","version"];
+window.ALL_CRATES = ["folder"];

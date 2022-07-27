@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["version"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.62.1/core/cmp/trait.PartialEq.html\" title=\"trait core::cmp::PartialEq\">PartialEq</a>&lt;<a class=\"struct\" href=\"version/struct.Version.html\" title=\"struct version::Version\">Version</a>&gt; for <a class=\"struct\" href=\"version/struct.Version.html\" title=\"struct version::Version\">Version</a>","synthetic":false,"types":["version::Version"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
